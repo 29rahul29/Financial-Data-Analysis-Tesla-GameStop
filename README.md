@@ -45,7 +45,7 @@ The notebook includes side-by-side interactive graphs showing:
 ├── README.md
 ├── gamestop.png
 ├── tesla.png
-└── Financial-Data-Analysis-Tesla-GameStop.ipynb
+└── tesla_gamestop_stock_analysis.ipynb
 ```
 
 ## 📸 Graph Snapshots
