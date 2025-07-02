@@ -41,8 +41,17 @@ The notebook includes side-by-side interactive graphs showing:
 
 ## 📁 Project Structure
 ```
-.
-├── Tesla-GME-Stock-Revenue-Analysis.ipynb
+├──.gitignore
 ├── README.md
-└── .gitignore
+├── gamestop.png
+├── tesla.png
+└── Financial-Data-Analysis-Tesla-GameStop.ipynb
 ```
+
+## 📸 Graph Snapshots
+
+### Tesla
+![Tesla Stock and Revenue](tesla.png)
+
+### GameStop
+![GameStop Stock and Revenue](gamestop.png)
